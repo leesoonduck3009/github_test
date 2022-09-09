@@ -1,0 +1,11 @@
+E:\C#\lableGUI\lableGUI\bin\Debug\lableGUI.exe.config
+E:\C#\lableGUI\lableGUI\bin\Debug\lableGUI.exe
+E:\C#\lableGUI\lableGUI\bin\Debug\lableGUI.pdb
+E:\C#\lableGUI\lableGUI\obj\Debug\lableGUI.csproj.AssemblyReference.cache
+E:\C#\lableGUI\lableGUI\obj\Debug\lableGUI.csproj.SuggestedBindingRedirects.cache
+E:\C#\lableGUI\lableGUI\obj\Debug\lableGUI.Form1.resources
+E:\C#\lableGUI\lableGUI\obj\Debug\lableGUI.Properties.Resources.resources
+E:\C#\lableGUI\lableGUI\obj\Debug\lableGUI.csproj.GenerateResource.cache
+E:\C#\lableGUI\lableGUI\obj\Debug\lableGUI.csproj.CoreCompileInputs.cache
+E:\C#\lableGUI\lableGUI\obj\Debug\lableGUI.exe
+E:\C#\lableGUI\lableGUI\obj\Debug\lableGUI.pdb
