@@ -17,7 +17,7 @@ namespace ConsoleApp1
         int width;
         public override void Draw()
         {
-            Console.WriteLine("Length: " );
+            Console.WriteLine("gth: " );
             Console.WriteLine("Width: " );
         }
         public override void Input()
