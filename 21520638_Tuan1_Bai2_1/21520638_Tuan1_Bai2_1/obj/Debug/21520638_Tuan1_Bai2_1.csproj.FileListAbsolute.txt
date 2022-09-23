@@ -1,0 +1,8 @@
+E:\C#\21520638_Tuan1_Bai2_1\21520638_Tuan1_Bai2_1\bin\Debug\21520638_Tuan1_Bai2_1.exe.config
+E:\C#\21520638_Tuan1_Bai2_1\21520638_Tuan1_Bai2_1\bin\Debug\21520638_Tuan1_Bai2_1.exe
+E:\C#\21520638_Tuan1_Bai2_1\21520638_Tuan1_Bai2_1\bin\Debug\21520638_Tuan1_Bai2_1.pdb
+E:\C#\21520638_Tuan1_Bai2_1\21520638_Tuan1_Bai2_1\obj\Debug\21520638_Tuan1_Bai2_1.csproj.AssemblyReference.cache
+E:\C#\21520638_Tuan1_Bai2_1\21520638_Tuan1_Bai2_1\obj\Debug\21520638_Tuan1_Bai2_1.csproj.SuggestedBindingRedirects.cache
+E:\C#\21520638_Tuan1_Bai2_1\21520638_Tuan1_Bai2_1\obj\Debug\21520638_Tuan1_Bai2_1.csproj.CoreCompileInputs.cache
+E:\C#\21520638_Tuan1_Bai2_1\21520638_Tuan1_Bai2_1\obj\Debug\21520638_Tuan1_Bai2_1.exe
+E:\C#\21520638_Tuan1_Bai2_1\21520638_Tuan1_Bai2_1\obj\Debug\21520638_Tuan1_Bai2_1.pdb
