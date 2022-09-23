@@ -1,0 +1,17 @@
+E:\C#\TestResgisteAccount\TestResgisteAccount\bin\Debug\net6.0-windows\TestResgisteAccount.exe
+E:\C#\TestResgisteAccount\TestResgisteAccount\bin\Debug\net6.0-windows\TestResgisteAccount.deps.json
+E:\C#\TestResgisteAccount\TestResgisteAccount\bin\Debug\net6.0-windows\TestResgisteAccount.runtimeconfig.json
+E:\C#\TestResgisteAccount\TestResgisteAccount\bin\Debug\net6.0-windows\TestResgisteAccount.dll
+E:\C#\TestResgisteAccount\TestResgisteAccount\bin\Debug\net6.0-windows\TestResgisteAccount.pdb
+E:\C#\TestResgisteAccount\TestResgisteAccount\obj\Debug\net6.0-windows\TestResgisteAccount.csproj.AssemblyReference.cache
+E:\C#\TestResgisteAccount\TestResgisteAccount\obj\Debug\net6.0-windows\TestResgisteAccount.Form1.resources
+E:\C#\TestResgisteAccount\TestResgisteAccount\obj\Debug\net6.0-windows\TestResgisteAccount.csproj.GenerateResource.cache
+E:\C#\TestResgisteAccount\TestResgisteAccount\obj\Debug\net6.0-windows\TestResgisteAccount.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\TestResgisteAccount\TestResgisteAccount\obj\Debug\net6.0-windows\TestResgisteAccount.AssemblyInfoInputs.cache
+E:\C#\TestResgisteAccount\TestResgisteAccount\obj\Debug\net6.0-windows\TestResgisteAccount.AssemblyInfo.cs
+E:\C#\TestResgisteAccount\TestResgisteAccount\obj\Debug\net6.0-windows\TestResgisteAccount.csproj.CoreCompileInputs.cache
+E:\C#\TestResgisteAccount\TestResgisteAccount\obj\Debug\net6.0-windows\TestResgisteAccount.dll
+E:\C#\TestResgisteAccount\TestResgisteAccount\obj\Debug\net6.0-windows\refint\TestResgisteAccount.dll
+E:\C#\TestResgisteAccount\TestResgisteAccount\obj\Debug\net6.0-windows\TestResgisteAccount.pdb
+E:\C#\TestResgisteAccount\TestResgisteAccount\obj\Debug\net6.0-windows\TestResgisteAccount.genruntimeconfig.cache
+E:\C#\TestResgisteAccount\TestResgisteAccount\obj\Debug\net6.0-windows\ref\TestResgisteAccount.dll

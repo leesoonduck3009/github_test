@@ -18,8 +18,37 @@ namespace lableGUI
         {
             InitializeComponent();
             LoadLb();
+            ClLb2();
             
         }
+        void ClLb2()
+        {
+            Label lb1 = new Label();
+            lb1.Name = "Tesst";
+            lb1.Text = "Nhan vao day de mo form";
+            lb1.Location = new Point(10, 25);
+            lb1.BackColor = Color.BlueViolet;
+            lb1.Click += Lb1_Click;
+            this.Controls.Add((Label)lb1);
+        }
+
+        private void Lb1_Click(object sender, EventArgs e)
+        {
+            LoadForm();
+            //throw new NotImplementedException();
+        }
+
+        void LoadForm()
+        {
+            Form a= new Form();
+            a.Height = 1000;
+            a.Width= 1000;
+            a.BackColor = Color.Aqua;
+            a.FormBorderStyle = FormBorderStyle.FixedToolWindow;
+            a.StartPosition = FormStartPosition.CenterScreen;
+            a.ShowDialog();
+            a.Text = "Form moi duoc tao ra";
+        }    
         void LoadLb()
         {
             Label lb = new Label();
@@ -28,7 +57,7 @@ namespace lableGUI
             lb.Name = "Binh";
             lb.BackColor = Color.Wheat;
             lb.Click += Lb_Click;
-            this.Controls.Add((Label)lb);
+            //this.Controls.Add((Label)lb);
            
         }
 
@@ -45,7 +74,7 @@ namespace lableGUI
             button.Text = "Nhap";
             button.Location = new Point(random.Next(0,this.Size.Width), random.Next(0,this.Size.Height));
             button.Click += Button_Click;
-            this.Controls.Add((Button)button);
+            //this.Controls.Add((Button)button);
             i++;
         }
 
@@ -61,6 +90,12 @@ namespace lableGUI
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            Random rnd = new Random();
+            
+            Button btt1 = new Button();
+            btt1.Location = new Point(10, 10);
+            btt1.Name = "Binh";
+            btt1.Text = rnd.Next().ToString();
 
         }
 

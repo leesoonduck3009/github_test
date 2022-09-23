@@ -1,0 +1,11 @@
+E:\C#\TestRegisterAccount\TestRegisterAccount\bin\Debug\TestRegisterAccount.exe.config
+E:\C#\TestRegisterAccount\TestRegisterAccount\bin\Debug\TestRegisterAccount.exe
+E:\C#\TestRegisterAccount\TestRegisterAccount\bin\Debug\TestRegisterAccount.pdb
+E:\C#\TestRegisterAccount\TestRegisterAccount\obj\Debug\TestRegisterAccount.csproj.AssemblyReference.cache
+E:\C#\TestRegisterAccount\TestRegisterAccount\obj\Debug\TestRegisterAccount.csproj.SuggestedBindingRedirects.cache
+E:\C#\TestRegisterAccount\TestRegisterAccount\obj\Debug\TestRegisterAccount.Form1.resources
+E:\C#\TestRegisterAccount\TestRegisterAccount\obj\Debug\TestRegisterAccount.Properties.Resources.resources
+E:\C#\TestRegisterAccount\TestRegisterAccount\obj\Debug\TestRegisterAccount.csproj.GenerateResource.cache
+E:\C#\TestRegisterAccount\TestRegisterAccount\obj\Debug\TestRegisterAccount.csproj.CoreCompileInputs.cache
+E:\C#\TestRegisterAccount\TestRegisterAccount\obj\Debug\TestRegisterAccount.exe
+E:\C#\TestRegisterAccount\TestRegisterAccount\obj\Debug\TestRegisterAccount.pdb

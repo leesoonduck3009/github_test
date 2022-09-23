@@ -1,0 +1,15 @@
+E:\C#\TestCThang\TestCThang\bin\Debug\net6.0\TestCThang.exe
+E:\C#\TestCThang\TestCThang\bin\Debug\net6.0\TestCThang.deps.json
+E:\C#\TestCThang\TestCThang\bin\Debug\net6.0\TestCThang.runtimeconfig.json
+E:\C#\TestCThang\TestCThang\bin\Debug\net6.0\TestCThang.dll
+E:\C#\TestCThang\TestCThang\bin\Debug\net6.0\TestCThang.pdb
+E:\C#\TestCThang\TestCThang\obj\Debug\net6.0\TestCThang.csproj.AssemblyReference.cache
+E:\C#\TestCThang\TestCThang\obj\Debug\net6.0\TestCThang.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\TestCThang\TestCThang\obj\Debug\net6.0\TestCThang.AssemblyInfoInputs.cache
+E:\C#\TestCThang\TestCThang\obj\Debug\net6.0\TestCThang.AssemblyInfo.cs
+E:\C#\TestCThang\TestCThang\obj\Debug\net6.0\TestCThang.csproj.CoreCompileInputs.cache
+E:\C#\TestCThang\TestCThang\obj\Debug\net6.0\TestCThang.dll
+E:\C#\TestCThang\TestCThang\obj\Debug\net6.0\refint\TestCThang.dll
+E:\C#\TestCThang\TestCThang\obj\Debug\net6.0\TestCThang.pdb
+E:\C#\TestCThang\TestCThang\obj\Debug\net6.0\TestCThang.genruntimeconfig.cache
+E:\C#\TestCThang\TestCThang\obj\Debug\net6.0\ref\TestCThang.dll

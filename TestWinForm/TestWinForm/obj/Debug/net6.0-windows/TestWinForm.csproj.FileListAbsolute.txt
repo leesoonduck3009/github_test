@@ -1,0 +1,17 @@
+E:\C#\TestWinForm\TestWinForm\bin\Debug\net6.0-windows\TestWinForm.exe
+E:\C#\TestWinForm\TestWinForm\bin\Debug\net6.0-windows\TestWinForm.deps.json
+E:\C#\TestWinForm\TestWinForm\bin\Debug\net6.0-windows\TestWinForm.runtimeconfig.json
+E:\C#\TestWinForm\TestWinForm\bin\Debug\net6.0-windows\TestWinForm.dll
+E:\C#\TestWinForm\TestWinForm\bin\Debug\net6.0-windows\TestWinForm.pdb
+E:\C#\TestWinForm\TestWinForm\obj\Debug\net6.0-windows\TestWinForm.csproj.AssemblyReference.cache
+E:\C#\TestWinForm\TestWinForm\obj\Debug\net6.0-windows\TestWinForm.Form1.resources
+E:\C#\TestWinForm\TestWinForm\obj\Debug\net6.0-windows\TestWinForm.csproj.GenerateResource.cache
+E:\C#\TestWinForm\TestWinForm\obj\Debug\net6.0-windows\TestWinForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\TestWinForm\TestWinForm\obj\Debug\net6.0-windows\TestWinForm.AssemblyInfoInputs.cache
+E:\C#\TestWinForm\TestWinForm\obj\Debug\net6.0-windows\TestWinForm.AssemblyInfo.cs
+E:\C#\TestWinForm\TestWinForm\obj\Debug\net6.0-windows\TestWinForm.csproj.CoreCompileInputs.cache
+E:\C#\TestWinForm\TestWinForm\obj\Debug\net6.0-windows\TestWinForm.dll
+E:\C#\TestWinForm\TestWinForm\obj\Debug\net6.0-windows\refint\TestWinForm.dll
+E:\C#\TestWinForm\TestWinForm\obj\Debug\net6.0-windows\TestWinForm.pdb
+E:\C#\TestWinForm\TestWinForm\obj\Debug\net6.0-windows\TestWinForm.genruntimeconfig.cache
+E:\C#\TestWinForm\TestWinForm\obj\Debug\net6.0-windows\ref\TestWinForm.dll

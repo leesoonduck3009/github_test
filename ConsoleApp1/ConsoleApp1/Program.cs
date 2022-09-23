@@ -17,7 +17,7 @@ namespace ConsoleApp1
         int width;
         public override void Draw()
         {
-            Console.WriteLine("gth: " );
+            Console.WriteLine("Length: " );
             Console.WriteLine("Width: " );
         }
         public override void Input()
@@ -41,17 +41,27 @@ namespace ConsoleApp1
     }
     class a
     { 
-        public static void Nhap(Shape[] arr,ref int n)
+        public static void Nhap(Shape[] arr)
         {
             Console.WriteLine("Nhap so phan tu: ");
-            n=int.Parse(Console.ReadLine());    
+            //n=int.Parse(Console.ReadLine());    
            // arr=new Shape[n];
-            arr[0] = new Triangle();
-            arr[1] = new Rectangle();
-            arr[0].Input();
-            arr[1].Input();
-            arr[0].Draw();
-            arr[1].Draw();
+           for(int i=0;i<arr.Length;i++)
+            {
+                Console.WriteLine("Nhap loai: ");
+                if(int.Parse(Console.ReadLine()) ==1)
+                {
+                    arr[i] =new Rectangle();
+                    arr[i].Input();
+                    arr[i].Draw();
+                }
+                else
+                {
+                    arr[i] = new Triangle();
+                    arr[i].Input();
+                    arr[i].Draw();
+                }
+            }
         }
     }
 
@@ -59,9 +69,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Shape[] b=new Shape[2];
-            int n=2;
-            a.Nhap(b,ref n);
+            Console.WriteLine("Nhap so luong phan tu");
+            Shape[] b=new Shape[int.Parse(Console.ReadLine())];
+            
+            a.Nhap(b);
             Console.ReadKey();
         }
     }
