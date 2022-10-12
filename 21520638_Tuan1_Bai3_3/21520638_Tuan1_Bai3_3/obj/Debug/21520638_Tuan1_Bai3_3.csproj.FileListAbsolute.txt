@@ -6,3 +6,11 @@ E:\C#\21520638_Tuan1_Bai3_3\21520638_Tuan1_Bai3_3\bin\Debug\21520638_Tuan1_Bai3_
 E:\C#\21520638_Tuan1_Bai3_3\21520638_Tuan1_Bai3_3\bin\Debug\21520638_Tuan1_Bai3_3.pdb
 E:\C#\21520638_Tuan1_Bai3_3\21520638_Tuan1_Bai3_3\obj\Debug\21520638_Tuan1_Bai3_3.exe
 E:\C#\21520638_Tuan1_Bai3_3\21520638_Tuan1_Bai3_3\obj\Debug\21520638_Tuan1_Bai3_3.pdb
+C:\Dữ liệu\Lập trình\21520638_Tuan1_Bai3_3\21520638_Tuan1_Bai3_3\bin\Debug\21520638_Tuan1_Bai3_3.exe.config
+C:\Dữ liệu\Lập trình\21520638_Tuan1_Bai3_3\21520638_Tuan1_Bai3_3\bin\Debug\21520638_Tuan1_Bai3_3.exe
+C:\Dữ liệu\Lập trình\21520638_Tuan1_Bai3_3\21520638_Tuan1_Bai3_3\bin\Debug\21520638_Tuan1_Bai3_3.pdb
+C:\Dữ liệu\Lập trình\21520638_Tuan1_Bai3_3\21520638_Tuan1_Bai3_3\obj\Debug\21520638_Tuan1_Bai3_3.csproj.AssemblyReference.cache
+C:\Dữ liệu\Lập trình\21520638_Tuan1_Bai3_3\21520638_Tuan1_Bai3_3\obj\Debug\21520638_Tuan1_Bai3_3.csproj.SuggestedBindingRedirects.cache
+C:\Dữ liệu\Lập trình\21520638_Tuan1_Bai3_3\21520638_Tuan1_Bai3_3\obj\Debug\21520638_Tuan1_Bai3_3.csproj.CoreCompileInputs.cache
+C:\Dữ liệu\Lập trình\21520638_Tuan1_Bai3_3\21520638_Tuan1_Bai3_3\obj\Debug\21520638_Tuan1_Bai3_3.exe
+C:\Dữ liệu\Lập trình\21520638_Tuan1_Bai3_3\21520638_Tuan1_Bai3_3\obj\Debug\21520638_Tuan1_Bai3_3.pdb
