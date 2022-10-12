@@ -1,0 +1,8 @@
+C:\Dữ liệu\Lập trình\21520638_Bai3_PDF\21520638_Bai3_PDF\bin\Debug\21520638_Bai3_PDF.exe.config
+C:\Dữ liệu\Lập trình\21520638_Bai3_PDF\21520638_Bai3_PDF\bin\Debug\21520638_Bai3_PDF.exe
+C:\Dữ liệu\Lập trình\21520638_Bai3_PDF\21520638_Bai3_PDF\bin\Debug\21520638_Bai3_PDF.pdb
+C:\Dữ liệu\Lập trình\21520638_Bai3_PDF\21520638_Bai3_PDF\obj\Debug\21520638_Bai3_PDF.csproj.AssemblyReference.cache
+C:\Dữ liệu\Lập trình\21520638_Bai3_PDF\21520638_Bai3_PDF\obj\Debug\21520638_Bai3_PDF.csproj.SuggestedBindingRedirects.cache
+C:\Dữ liệu\Lập trình\21520638_Bai3_PDF\21520638_Bai3_PDF\obj\Debug\21520638_Bai3_PDF.csproj.CoreCompileInputs.cache
+C:\Dữ liệu\Lập trình\21520638_Bai3_PDF\21520638_Bai3_PDF\obj\Debug\21520638_Bai3_PDF.exe
+C:\Dữ liệu\Lập trình\21520638_Bai3_PDF\21520638_Bai3_PDF\obj\Debug\21520638_Bai3_PDF.pdb
