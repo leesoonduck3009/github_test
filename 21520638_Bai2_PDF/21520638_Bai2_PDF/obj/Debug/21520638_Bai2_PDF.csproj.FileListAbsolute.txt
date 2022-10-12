@@ -1,0 +1,8 @@
+C:\Users\acer\source\repos\21520638_Bai2_PDF\21520638_Bai2_PDF\bin\Debug\21520638_Bai2_PDF.exe.config
+C:\Users\acer\source\repos\21520638_Bai2_PDF\21520638_Bai2_PDF\bin\Debug\21520638_Bai2_PDF.exe
+C:\Users\acer\source\repos\21520638_Bai2_PDF\21520638_Bai2_PDF\bin\Debug\21520638_Bai2_PDF.pdb
+C:\Users\acer\source\repos\21520638_Bai2_PDF\21520638_Bai2_PDF\obj\Debug\21520638_Bai2_PDF.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\21520638_Bai2_PDF\21520638_Bai2_PDF\obj\Debug\21520638_Bai2_PDF.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\source\repos\21520638_Bai2_PDF\21520638_Bai2_PDF\obj\Debug\21520638_Bai2_PDF.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\21520638_Bai2_PDF\21520638_Bai2_PDF\obj\Debug\21520638_Bai2_PDF.exe
+C:\Users\acer\source\repos\21520638_Bai2_PDF\21520638_Bai2_PDF\obj\Debug\21520638_Bai2_PDF.pdb
