@@ -36,17 +36,17 @@
             // labelInnfo
             // 
             this.labelInnfo.AutoSize = true;
-            this.labelInnfo.Font = new System.Drawing.Font("Lucida Fax", 18F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelInnfo.Font = new System.Drawing.Font("Times New Roman", 19.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelInnfo.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.labelInnfo.Location = new System.Drawing.Point(209, 81);
+            this.labelInnfo.Location = new System.Drawing.Point(225, 80);
             this.labelInnfo.Name = "labelInnfo";
-            this.labelInnfo.Size = new System.Drawing.Size(380, 34);
+            this.labelInnfo.Size = new System.Drawing.Size(373, 39);
             this.labelInnfo.TabIndex = 1;
             this.labelInnfo.Text = "Nhập MSSV cần thay đổi";
             // 
             // textBoxID
             // 
-            this.textBoxID.Font = new System.Drawing.Font("Lucida Fax", 16.2F);
+            this.textBoxID.Font = new System.Drawing.Font("Times New Roman", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxID.Location = new System.Drawing.Point(264, 152);
             this.textBoxID.Name = "textBoxID";
             this.textBoxID.Size = new System.Drawing.Size(277, 39);
@@ -54,13 +54,14 @@
             // 
             // buttonSearch
             // 
-            this.buttonSearch.Font = new System.Drawing.Font("Lucida Fax", 16.2F);
+            this.buttonSearch.Font = new System.Drawing.Font("Times New Roman", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonSearch.Location = new System.Drawing.Point(326, 220);
             this.buttonSearch.Name = "buttonSearch";
             this.buttonSearch.Size = new System.Drawing.Size(139, 65);
             this.buttonSearch.TabIndex = 10;
             this.buttonSearch.Text = "Tìm ";
             this.buttonSearch.UseVisualStyleBackColor = true;
+            this.buttonSearch.Click += new System.EventHandler(this.buttonSearch_Click);
             // 
             // FormSearch
             // 
@@ -72,6 +73,7 @@
             this.Controls.Add(this.labelInnfo);
             this.Name = "FormSearch";
             this.Text = "FormSearch";
+            this.Load += new System.EventHandler(this.FormSearch_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
