@@ -27,6 +27,21 @@ namespace GUI
         }
         public Student()
         { }
+        public static Student FindStrStudent(string MSSV)
+        {
+            string[] ListStudent = File.ReadAllLines("data.txt");
+            Student a;
+            for (int i = 0; i < ListStudent.Length; i++)
+            {
+                string[] listDataStudent = ListStudent[i].Split('/');
+                if (listDataStudent[0] == MSSV)
+                {
+                     a = new Student(int.Parse(listDataStudent[0]), listDataStudent[1], float.Parse(listDataStudent[3]), listDataStudent[2]);
+                    return a;
+                }    
+            }
+            return new Student();
+        }
         public static bool FindStudent(string MSSV)
         {
             string[] ListStudent= File.ReadAllLines("data.txt");

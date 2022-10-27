@@ -1,0 +1,11 @@
+C:\Dữ liệu\Lập trình\TestWinForm11\TestWinForm11\bin\Debug\TestWinForm11.exe.config
+C:\Dữ liệu\Lập trình\TestWinForm11\TestWinForm11\bin\Debug\TestWinForm11.exe
+C:\Dữ liệu\Lập trình\TestWinForm11\TestWinForm11\bin\Debug\TestWinForm11.pdb
+C:\Dữ liệu\Lập trình\TestWinForm11\TestWinForm11\obj\Debug\TestWinForm11.csproj.AssemblyReference.cache
+C:\Dữ liệu\Lập trình\TestWinForm11\TestWinForm11\obj\Debug\TestWinForm11.csproj.SuggestedBindingRedirects.cache
+C:\Dữ liệu\Lập trình\TestWinForm11\TestWinForm11\obj\Debug\TestWinForm11.Form1.resources
+C:\Dữ liệu\Lập trình\TestWinForm11\TestWinForm11\obj\Debug\TestWinForm11.Properties.Resources.resources
+C:\Dữ liệu\Lập trình\TestWinForm11\TestWinForm11\obj\Debug\TestWinForm11.csproj.GenerateResource.cache
+C:\Dữ liệu\Lập trình\TestWinForm11\TestWinForm11\obj\Debug\TestWinForm11.csproj.CoreCompileInputs.cache
+C:\Dữ liệu\Lập trình\TestWinForm11\TestWinForm11\obj\Debug\TestWinForm11.exe
+C:\Dữ liệu\Lập trình\TestWinForm11\TestWinForm11\obj\Debug\TestWinForm11.pdb

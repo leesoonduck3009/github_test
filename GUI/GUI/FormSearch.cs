@@ -22,8 +22,9 @@ namespace GUI
             if(Student.FindStudent(textBoxID.Text))
             {
                 this.Hide();
-                FormUpdate fUpdate = new FormUpdate(textBoxID.Text);
+                FormSearchData fUpdate = new FormSearchData(textBoxID.Text);
                 fUpdate.ShowDialog();
+                this.Show();
                 //fUpdate.Close();
             }
         }
@@ -31,6 +32,13 @@ namespace GUI
         private void FormSearch_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            FormMain fMain = new FormMain();
+            this.Hide();
+            fMain.ShowDialog();
         }
     }
 }

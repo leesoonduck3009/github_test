@@ -1,0 +1,11 @@
+C:\Dữ liệu\Lập trình\WinFormTest\WinFormTest\bin\Debug\WinFormTest.exe.config
+C:\Dữ liệu\Lập trình\WinFormTest\WinFormTest\bin\Debug\WinFormTest.exe
+C:\Dữ liệu\Lập trình\WinFormTest\WinFormTest\bin\Debug\WinFormTest.pdb
+C:\Dữ liệu\Lập trình\WinFormTest\WinFormTest\obj\Debug\WinFormTest.csproj.AssemblyReference.cache
+C:\Dữ liệu\Lập trình\WinFormTest\WinFormTest\obj\Debug\WinFormTest.csproj.SuggestedBindingRedirects.cache
+C:\Dữ liệu\Lập trình\WinFormTest\WinFormTest\obj\Debug\WinFormTest.Form1.resources
+C:\Dữ liệu\Lập trình\WinFormTest\WinFormTest\obj\Debug\WinFormTest.Properties.Resources.resources
+C:\Dữ liệu\Lập trình\WinFormTest\WinFormTest\obj\Debug\WinFormTest.csproj.GenerateResource.cache
+C:\Dữ liệu\Lập trình\WinFormTest\WinFormTest\obj\Debug\WinFormTest.csproj.CoreCompileInputs.cache
+C:\Dữ liệu\Lập trình\WinFormTest\WinFormTest\obj\Debug\WinFormTest.exe
+C:\Dữ liệu\Lập trình\WinFormTest\WinFormTest\obj\Debug\WinFormTest.pdb

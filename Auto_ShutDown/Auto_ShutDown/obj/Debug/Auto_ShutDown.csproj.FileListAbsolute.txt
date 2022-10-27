@@ -1,0 +1,11 @@
+C:\Dữ liệu\Lập trình\Auto_ShutDown\Auto_ShutDown\bin\Debug\Auto_ShutDown.exe.config
+C:\Dữ liệu\Lập trình\Auto_ShutDown\Auto_ShutDown\bin\Debug\Auto_ShutDown.exe
+C:\Dữ liệu\Lập trình\Auto_ShutDown\Auto_ShutDown\bin\Debug\Auto_ShutDown.pdb
+C:\Dữ liệu\Lập trình\Auto_ShutDown\Auto_ShutDown\obj\Debug\Auto_ShutDown.csproj.AssemblyReference.cache
+C:\Dữ liệu\Lập trình\Auto_ShutDown\Auto_ShutDown\obj\Debug\Auto_ShutDown.csproj.SuggestedBindingRedirects.cache
+C:\Dữ liệu\Lập trình\Auto_ShutDown\Auto_ShutDown\obj\Debug\Auto_ShutDown.Form1.resources
+C:\Dữ liệu\Lập trình\Auto_ShutDown\Auto_ShutDown\obj\Debug\Auto_ShutDown.Properties.Resources.resources
+C:\Dữ liệu\Lập trình\Auto_ShutDown\Auto_ShutDown\obj\Debug\Auto_ShutDown.csproj.GenerateResource.cache
+C:\Dữ liệu\Lập trình\Auto_ShutDown\Auto_ShutDown\obj\Debug\Auto_ShutDown.csproj.CoreCompileInputs.cache
+C:\Dữ liệu\Lập trình\Auto_ShutDown\Auto_ShutDown\obj\Debug\Auto_ShutDown.exe
+C:\Dữ liệu\Lập trình\Auto_ShutDown\Auto_ShutDown\obj\Debug\Auto_ShutDown.pdb
