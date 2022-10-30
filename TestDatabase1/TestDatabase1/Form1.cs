@@ -17,5 +17,17 @@ namespace TestDatabase1
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            SqlConnection con = new SqlConnection(con_string);
+            con.Open();
+            SqlCommand cmd = new SqlCommand("Select MaNV,HoTen,SoDienThoai,NgayLV FROM NhanVien Where MaNV=@MaNV",con);   
+
+            if(con.State==System.Data.ConnectionState.Open)
+            {
+                
+            }    
+        }
     }
 }

@@ -1,0 +1,12 @@
+C:\Dữ liệu\Lập trình\DrawApp\DrawApp\bin\Debug\DrawApp.exe.config
+C:\Dữ liệu\Lập trình\DrawApp\DrawApp\bin\Debug\DrawApp.exe
+C:\Dữ liệu\Lập trình\DrawApp\DrawApp\bin\Debug\DrawApp.pdb
+C:\Dữ liệu\Lập trình\DrawApp\DrawApp\obj\Debug\DrawApp.csproj.AssemblyReference.cache
+C:\Dữ liệu\Lập trình\DrawApp\DrawApp\obj\Debug\DrawApp.csproj.SuggestedBindingRedirects.cache
+C:\Dữ liệu\Lập trình\DrawApp\DrawApp\obj\Debug\DrawApp.Form1.resources
+C:\Dữ liệu\Lập trình\DrawApp\DrawApp\obj\Debug\DrawApp.Properties.Resources.resources
+C:\Dữ liệu\Lập trình\DrawApp\DrawApp\obj\Debug\DrawApp.csproj.GenerateResource.cache
+C:\Dữ liệu\Lập trình\DrawApp\DrawApp\obj\Debug\DrawApp.csproj.CoreCompileInputs.cache
+C:\Dữ liệu\Lập trình\DrawApp\DrawApp\obj\Debug\DrawApp.exe
+C:\Dữ liệu\Lập trình\DrawApp\DrawApp\obj\Debug\DrawApp.pdb
+C:\Dữ liệu\Lập trình\DrawApp\DrawApp\obj\Debug\DrawApp.FormColor.resources
