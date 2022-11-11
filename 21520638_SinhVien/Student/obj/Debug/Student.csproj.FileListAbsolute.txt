@@ -14,3 +14,11 @@ C:\Dữ liệu\Lập trình\21520638_SinhVien\Student\obj\Debug\Student.csproj.S
 C:\Dữ liệu\Lập trình\21520638_SinhVien\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
 C:\Dữ liệu\Lập trình\21520638_SinhVien\Student\obj\Debug\Student.exe
 C:\Dữ liệu\Lập trình\21520638_SinhVien\Student\obj\Debug\Student.pdb
+C:\Data\Lập trình\21520638_SinhVien\Student\bin\Debug\Student.exe.config
+C:\Data\Lập trình\21520638_SinhVien\Student\bin\Debug\Student.exe
+C:\Data\Lập trình\21520638_SinhVien\Student\bin\Debug\Student.pdb
+C:\Data\Lập trình\21520638_SinhVien\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+C:\Data\Lập trình\21520638_SinhVien\Student\obj\Debug\Student.csproj.SuggestedBindingRedirects.cache
+C:\Data\Lập trình\21520638_SinhVien\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Data\Lập trình\21520638_SinhVien\Student\obj\Debug\Student.exe
+C:\Data\Lập trình\21520638_SinhVien\Student\obj\Debug\Student.pdb

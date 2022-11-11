@@ -12,7 +12,7 @@ namespace TestDatabase1
 {
     public partial class Form1 : Form
     {
-        public string con_string = "Data Source=LAPTOP-8BAO71EG\\SQLEXPRESS;Initial Catalog=QLBH;Integrated Security=True";
+        public string con = "Data Source=LAPTOP-8BAO71EG\\SQLEXPRESS;Initial Catalog=QLKS;Integrated Security=True";
         public Form1()
         {
             InitializeComponent();
@@ -20,14 +20,33 @@ namespace TestDatabase1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            SqlConnection con = new SqlConnection(con_string);
-            con.Open();
-            SqlCommand cmd = new SqlCommand("Select MaNV,HoTen,SoDienThoai,NgayLV FROM NhanVien Where MaNV=@MaNV",con);   
-
-            if(con.State==System.Data.ConnectionState.Open)
+            string query = "SELECT * FROM ACCOUNT WHERE Id = " + NM1_2.Value;
+            DataTable dt = LoadAccountList(query);
+            if (dt.Rows.Count > 0)
             {
-                
-            }    
+                this.textBoxName.Text = dt.Rows[0]["UserName"].ToString();
+                this.textBoxSDT.Text = dt.Rows[0]["DisplayName"].ToString();
+            }
+        }
+        DataTable LoadAccountList(string query)
+        {
+            DataTable data = new DataTable();
+            using (SqlConnection connection = new SqlConnection(con))
+            {
+
+                connection.Open();
+                SqlCommand command = new SqlCommand(query, connection);
+               
+                SqlDataAdapter adapter = new SqlDataAdapter(command);
+                adapter.Fill(data);
+                connection.Close();
+            }
+            return data;
+        }
+
+        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

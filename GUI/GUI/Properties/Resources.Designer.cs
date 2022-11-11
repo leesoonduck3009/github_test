@@ -63,6 +63,28 @@ namespace GUI.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap kisspng_computer_icons_image_editing_font_awesome_video_ed_register_icon_5b287b22c25a96_2897836015293796187961 {
+            get {
+                object obj = ResourceManager.GetObject("kisspng-computer-icons-image-editing-font-awesome-video-ed-register-icon-5b287b22" +
+                        "c25a96.2897836015293796187961", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap kisspng_computer_icons_magnifying_glass_download_5af6122f33a598_0364138415260759512116 {
+            get {
+                object obj = ResourceManager.GetObject("kisspng-computer-icons-magnifying-glass-download-5af6122f33a598.03641384152607595" +
+                        "12116", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap menu {
             get {
                 object obj = ResourceManager.GetObject("menu", resourceCulture);

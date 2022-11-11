@@ -12,33 +12,45 @@ namespace GUI
 {
     public partial class FormSearch : Form
     {
+        List<Student> students;
         public FormSearch()
         {
+            //if (students == null)
+                students = Student.GetStudents();
             InitializeComponent();
         }
 
-        private void buttonSearch_Click(object sender, EventArgs e)
-        {
-            if(Student.FindStudent(textBoxID.Text))
-            {
-                this.Hide();
-                FormSearchData fUpdate = new FormSearchData(textBoxID.Text);
-                fUpdate.ShowDialog();
-                this.Show();
-                //fUpdate.Close();
-            }
-        }
-
-        private void FormSearch_Load(object sender, EventArgs e)
+        private void label3_Click(object sender, EventArgs e)
         {
 
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            FormMain fMain = new FormMain();
-            this.Hide();
-            fMain.ShowDialog();
+
+            
+            
+
+            foreach (Student student in students)
+            {
+                if (student.Id.ToString() == txtBoxSearch.Text)
+                {
+                    this.txtBoxID.Text = student.Id.ToString();
+                    this.txtBoxName.Text = student.Name;
+                    this.txtBoxClass.Text = student.Class;
+                    this.txtBoxAvg.Text = student.Avg.ToString();
+                    this.txtBoxSearch.Text = null;
+                    return;
+                }
+            }
+            if (txtBoxSearch.Text != null && txtBoxSearch.Text != "")
+                MessageBox.Show("Không có sinh viên trong danh sách", "Thông báo");
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
         }
     }
 }

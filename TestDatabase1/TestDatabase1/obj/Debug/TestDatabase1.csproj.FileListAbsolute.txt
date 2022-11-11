@@ -1,0 +1,11 @@
+C:\Data\Lập trình\TestDatabase1\TestDatabase1\obj\Debug\TestDatabase1.csproj.AssemblyReference.cache
+C:\Data\Lập trình\TestDatabase1\TestDatabase1\obj\Debug\TestDatabase1.csproj.SuggestedBindingRedirects.cache
+C:\Data\Lập trình\TestDatabase1\TestDatabase1\obj\Debug\TestDatabase1.Form1.resources
+C:\Data\Lập trình\TestDatabase1\TestDatabase1\obj\Debug\TestDatabase1.Properties.Resources.resources
+C:\Data\Lập trình\TestDatabase1\TestDatabase1\obj\Debug\TestDatabase1.csproj.GenerateResource.cache
+C:\Data\Lập trình\TestDatabase1\TestDatabase1\obj\Debug\TestDatabase1.csproj.CoreCompileInputs.cache
+C:\Data\Lập trình\TestDatabase1\TestDatabase1\bin\Debug\TestDatabase1.exe.config
+C:\Data\Lập trình\TestDatabase1\TestDatabase1\bin\Debug\TestDatabase1.exe
+C:\Data\Lập trình\TestDatabase1\TestDatabase1\bin\Debug\TestDatabase1.pdb
+C:\Data\Lập trình\TestDatabase1\TestDatabase1\obj\Debug\TestDatabase1.exe
+C:\Data\Lập trình\TestDatabase1\TestDatabase1\obj\Debug\TestDatabase1.pdb

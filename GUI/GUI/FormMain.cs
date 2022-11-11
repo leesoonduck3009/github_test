@@ -17,28 +17,49 @@ namespace GUI
             InitializeComponent();
         }
 
-        private void buttonInput_Click(object sender, EventArgs e)
+        
+
+        private void button1_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            FormInput fInput = new FormInput();
-            fInput.ShowDialog();
-            this.Close();
+            OpenChildFrom(new FormList());
+            
+        }
+        private Form ActiveForm = null;
+        private void OpenChildFrom(Form FormChild)
+        {
+            if(ActiveForm != null)
+            {
+                ActiveForm.Close(); 
+            }
+            FormChild.TopLevel = false;
+            FormChild.FormBorderStyle = FormBorderStyle.None;
+            FormChild.Dock = DockStyle.Fill;
+            ActiveForm = FormChild;
+            pnlDisplay.Controls.Add(FormChild);
+            pnlDisplay.Tag = FormChild;
+            FormChild.BringToFront();
+            FormChild.Show();
         }
 
-        private void buttonSearch_Click(object sender, EventArgs e)
+        private void bttFind_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            FormSearch fSearch = new FormSearch();
-            fSearch.ShowDialog();
-            this.Close();
+            OpenChildFrom(new FormSearch());
         }
 
-        private void buttonDelete_Click(object sender, EventArgs e)
+        private void bttDel_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            FormUpdate fUpdate = new FormUpdate();
-            fUpdate.ShowDialog();
-            this.Close();
+            OpenChildFrom(new FormDel());
+        }
+
+        private void bttAdd_Click(object sender, EventArgs e)
+        {
+            OpenChildFrom(new FormAdd());
+        }
+
+        private void bttChange_Click(object sender, EventArgs e)
+        {
+            OpenChildFrom(new FormChange());
         }
     }
+   
 }
